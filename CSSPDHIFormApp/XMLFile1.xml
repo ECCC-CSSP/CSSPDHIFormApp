@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Test.kml</name>
+	<Folder>
+	    <name>Nodes</name>
+	    <open>1</open>
+	    <Placemark>
+	    	<name>index (0) NodeID (1)</name>
+	    	<Point>
+	    	    <coordinates>-64.528438,48.8751880</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (1) NodeID (2)</name>
+	    	<Point>
+	    	    <coordinates>-64.524799,48.8776170</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (2) NodeID (3)</name>
+	    	<Point>
+	    	    <coordinates>-64.527297,48.8784820</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (3) NodeID (4)</name>
+	    	<Point>
+	    	    <coordinates>-64.529794,48.8793480</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (4) NodeID (5)</name>
+	    	<Point>
+	    	    <coordinates>-64.531503,48.8772650</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (5) NodeID (6)</name>
+	    	<Point>
+	    	    <coordinates>-64.532291,48.8802130</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (6) NodeID (7)</name>
+	    	<Point>
+	    	    <coordinates>-64.536415,48.8694910</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (7) NodeID (8)</name>
+	    	<Point>
+	    	    <coordinates>-64.538952,48.8696790</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (8) NodeID (9)</name>
+	    	<Point>
+	    	    <coordinates>-64.538131,48.8679470</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (9) NodeID (10)</name>
+	    	<Point>
+	    	    <coordinates>-64.534057,48.8781220</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (10) NodeID (11)</name>
+	    	<Point>
+	    	    <coordinates>-64.540583,48.8686710</coordinates>
+	    	</Point>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (11) NodeID (12)</name>
+	    	<Point>
+	    	    <coordinates>-64.533224,48.8751920</coordinates>
+	    	</Point>
+	    </Placemark>
+	</Folder>
+	<Folder>
+        <name>Elements</name>
+	    <open>1</open>
+	    <Placemark>
+	    	<name>index (0) ElementID (1)</name>
+	    	<Polygon>
+	    	    <outerBoundaryIs>
+	    	        <LinearRing>
+	    	            <coordinates>
+-64.528438,48.8751880 -64.524799,48.8776170 -64.527297,48.8784820 -64.528438,48.8751880 	    	            </coordinates>
+	    	        </LinearRing>
+	    	    </<outerBoundaryIs>
+	    	</Polygon>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (1) ElementID (2)</name>
+	    	<Polygon>
+	    	    <outerBoundaryIs>
+	    	        <LinearRing>
+	    	            <coordinates>
+-64.527297,48.8784820 -64.529794,48.8793480 -64.528438,48.8751880 -64.527297,48.8784820 	    	            </coordinates>
+	    	        </LinearRing>
+	    	    </<outerBoundaryIs>
+	    	</Polygon>
+	    </Placemark>
+	    <Placemark>
+	    	<name>index (2) ElementID (3)</name>
+	    	<Polygon>
+	    	    <outerBoundaryIs>
+	    	        <LinearRing>
+	    	            <coordinates>
+-64.529794,48.8793480 -64.531503,48.8772650 -64.528438,48.8751880 -64.529794,48.8793480 	    	            </coordinates>
+	    	        </LinearRing>
+	    	    </<outerBoundaryIs>
+	    	</Polygon>
+	    </Placemark>
+	</Folder>
+</Document>
+</kml>
